@@ -1,0 +1,305 @@
+header{
+	
+    border:solid 1px black;
+    width:91%;
+    margin-top:-8px;
+    margin-left:60px;
+    box-shadow:2px 2px 4px;
+    
+    }
+    
+    nav{
+    position:relative;
+    top:-20px;
+    left:59.5px;
+    
+    
+    }
+    
+    nav ul{
+    list-style:none;
+    padding:0px;}
+    
+    nav ul li{
+    
+    background-color:navy;
+    height:55px;
+    width:174px;
+    line-height:55px;
+    float:left;
+    position:relative;
+    transition:0.5s;
+    z-index:2;
+    }
+    
+    nav ul a{
+    text-decoration:none;
+    color:white;
+    font-size:25px;
+    margin-left:20px;
+    display:block;
+    }
+    
+    nav ul ul{
+    display:none;}
+    
+    
+    nav ul li:hover{
+    background:grey;}
+    
+    
+    
+    nav  ul li:hover>ul{
+    display:block;
+    }
+    
+    
+    
+    nav ul ul li a{
+    font-size:15px;
+    
+    
+    
+    }
+    
+ .a{
+   // border: 1px solid black;
+     margin-top:0px;
+     margin-left:400px;
+     width:40%;
+
+ }   
+
+.a1{
+        margin-left:100px;
+        color:grey
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ .bidisha{
+        
+        margin-left:100px;
+        }
+        
+        .bidisha1 img{
+        border-radius:5px;}
+        
+        .bidisha2{
+                margin-top:-210px;
+                margin-left:200px;}
+    
+    .shovan{
+    margin-left:100px;
+    }
+    
+    .shovan1 img{
+    border-radius:5px;}
+    
+    .shovan2{
+            margin-top:-230px;
+    margin-left:200px;}
+    
+    .surajit{
+            margin-left:100px;
+    }
+    
+    .surajit1 img{
+    border-radius:5px;}
+    
+    .surajit2{
+        margin-top:-230px;
+        margin-left:200px;}
+    
+
+        .b h2{
+                margin-left:100px;
+                margin-top:40px;
+                color:grey;
+        }
+    
+    .babita{
+                margin-left:100px;
+                margin-top:20px;
+    }
+    
+    
+    .babita1 img{
+        border-radius:5px;
+    margin-top:40px;}
+    
+    .babita2{
+        margin-top:-220px;
+        margin-left:200px;}
+    
+  
+    
+    .bijit{
+            margin-left:100px;
+    }
+    
+    .bijit1 img{
+    border-radius:5px;}
+    
+    .bijit2{
+            margin-top:-230px;
+    margin-left:200px;}
+    
+    .garuna{
+            margin-left:100px;
+                margin-top:40px;
+    }
+    
+    .garuna1 img{
+    border-radius:5px;}
+    
+    .garuna2{
+            margin-top:-220px;
+    margin-left:200px;}
+    
+    .komal{
+            margin-left:100px;
+                margin-top:40px;
+    }
+    
+    .komal1 img{
+    border-radius:5px;}
+    
+    .komal2{
+            margin-top:-220px;
+    margin-left:200px;}
+    
+     .kukil{
+            margin-left:100px;
+                margin-top:40px;
+    }
+    
+    .kukil1 img{
+    border-radius:5px;}
+    
+    .kukil2{
+            margin-top:-220px;
+    margin-left:200px;} 
+    
+     .mansoor{
+            margin-left:100px;
+                margin-top:40px;
+    }
+    
+    .mansoor1 img{
+    border-radius:5px;}
+    
+    .mansoor2{
+            margin-top:-230px;
+    margin-left:200px;} 
+    
+     .mourina{
+            margin-left:100px;
+                margin-top:70px;
+    }
+    
+    
+    .mourina1 img{
+    border-radius:5px;}
+    .mourina2{
+            margin-top:-220px;
+    margin-left:200px;} 
+    
+     .rakesh{
+            margin-left:100px;
+                margin-top:40px;
+    }
+    
+    .rakesh1 img{
+    border-radius:5px;}
+    
+    .rakesh2{
+            margin-top:-230px;
+    margin-left:200px;} 
+    
+     .ripuidaman{
+            margin-left:100px;
+                margin-top:40px;
+    }
+    
+    .ripuidaman1 img{
+    border-radius:5px;}
+    
+    .ripuidaman2{
+            margin-top:-220px;
+    margin-left:200px;} 
+    
+     .rusha{
+            margin-left:100px;
+                margin-top:60px;
+    }
+    
+    
+    .rusha1 img{
+    border-radius:5px;}
+    
+    .rusha2{
+            margin-top:-220px;
+    margin-left:200px;} 
+    
+     .shilpa{
+            margin-left:100px;
+                margin-top:40px;
+    }
+    
+    .shilpa1 img{
+    border-radius:5px;}
+    
+    .shilpa2{
+            margin-top:-220px;
+    margin-left:200px;} 
+    
+     .soumyajit{
+            margin-left:100px;
+                margin-top:60px;
+    }
+    
+    .soumyajit1 img{
+    border-radius:5px;}
+    
+    .soumyajit2{
+            margin-top:-230px;
+    margin-left:200px;} 
+    
+     .sounak{
+            margin-left:100px;
+                margin-top:40px;
+    }
+    
+    .sounak1 img{
+    border-radius:5px;}
+    
+    .sounak2{
+            margin-top:-220px;
+    margin-left:200px;} 
+    
+     .sudip{
+            margin-left:100px;
+                margin-top:40px;
+    }
+    
+    .sudip1 img{
+    border-radius:5px;}
+    
+    .sudip2{
+            margin-top:-220px;
+    margin-left:200px;} 
+    
+    .footer{
+	background-color:rgba(100, 90, 90, 0.507);
+	height:50px;
+}

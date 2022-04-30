@@ -1,0 +1,372 @@
+header{
+	
+border:solid 1px black;
+width:91%;
+margin-top:-8px;
+margin-left:60px;
+box-shadow:2px 2px 4px;
+
+}
+
+nav{
+position:relative;
+top:-20px;
+left:59.5px;
+
+
+}
+
+nav ul{
+list-style:none;
+padding:0px;}
+
+nav ul li{
+
+background-color:navy;
+height:55px;
+width:174px;
+line-height:55px;
+float:left;
+position:relative;
+transition:0.5s;
+z-index:2;
+}
+
+nav ul a{
+text-decoration:none;
+color:white;
+font-size:25px;
+margin-left:20px;
+display:block;
+}
+
+nav ul ul{
+display:none;}
+
+
+nav ul li:hover{
+background:grey;}
+
+
+
+nav  ul li:hover>ul{
+display:block;
+}
+
+
+
+nav ul ul li a{
+font-size:15px;
+
+
+
+}
+.a{
+//border:1px solid black;
+text-align:center;
+//height:20px;
+	width:30%;
+	margin-left:500px;}
+	
+.a1{
+		color:grey;
+margin-left:100px;
+}
+
+.director{
+	margin-left:100px;}
+	
+.director img{
+border-radius:5px;}
+	
+.director2{
+	margin-top:-230px;
+	margin-left:200px;
+	font-size:20px;}
+
+
+
+	
+.b{
+margin-left:100px;
+color:grey;}
+
+.ferdous{
+margin-left:100px;
+}
+
+.ferdous1 img{
+border-radius:5px;}
+
+.ferdous2{
+		margin-top:-230px;
+margin-left:200px;}
+
+
+.moumita{
+margin-left:100px;
+}
+
+.moumita1 img{
+border-radius:5px;}
+
+.moumita2{
+		margin-top:-230px;
+margin-left:200px;}
+
+.rakesh{
+		margin-left:100px;
+}
+
+.rakesh1 img{
+border-radius:5px;}
+
+.rakesh2{
+	margin-top:-240px;
+	margin-left:200px;}
+
+
+.subhasish{
+			margin-left:100px;
+			margin-top:20px;
+}
+
+
+.subhasish1 img{
+	border-radius:5px;
+margin-top:40px;}
+
+.subhasish2{
+	margin-top:-220px;
+	margin-left:200px;}
+
+.c{
+		//border:1px solid black;
+		font-size:20px;
+	margin-left:100px;
+	color:grey;}
+
+.angshuman{
+		margin-left:100px;
+}
+
+.angshuman1 img{
+border-radius:5px;}
+
+.angshuman2{
+		margin-top:-230px;
+margin-left:200px;}
+
+.debashree{
+		margin-left:100px;
+			margin-top:40px;
+}
+
+.debashree1 img{
+border-radius:5px;}
+
+.debashree2{
+		margin-top:-220px;
+margin-left:200px;}
+
+.kaustuv{
+		margin-left:100px;
+			margin-top:40px;
+}
+
+.kaustuv1 img{
+border-radius:5px;}
+
+.kaustuv2{
+		margin-top:-220px;
+margin-left:200px;}
+
+ .manojit{
+		margin-left:100px;
+			margin-top:40px;
+}
+
+.manojit1 img{
+border-radius:5px;}
+
+.manojit2{
+		margin-top:-220px;
+margin-left:200px;} 
+
+ .nilkanta{
+		margin-left:100px;
+			margin-top:40px;
+}
+
+.nilkanta1 img{
+border-radius:5px;}
+
+.nilkanta2{
+		margin-top:-200px;
+margin-left:200px;} 
+
+ .paras{
+		margin-left:100px;
+			margin-top:70px;
+}
+
+
+.paras1 img{
+border-radius:5px;}
+.paras2{
+		margin-top:-220px;
+margin-left:200px;} 
+
+ .phrangboklang{
+		margin-left:100px;
+			margin-top:40px;
+}
+
+.phrangboklang1 img{
+border-radius:5px;}
+
+.phrangboklang2{
+		margin-top:-220px;
+margin-left:200px;} 
+
+ .radhika{
+		margin-left:100px;
+			margin-top:40px;
+}
+
+.radhika1 img{
+border-radius:5px;}
+
+.radhika2{
+		margin-top:-220px;
+margin-left:200px;} 
+
+ .rohit{
+		margin-left:100px;
+			margin-top:40px;
+}
+
+
+.rohit1 img{
+border-radius:5px;}
+
+.rohit2{
+		margin-top:-220px;
+margin-left:200px;} 
+
+ .sanjay{
+		margin-left:100px;
+			margin-top:40px;
+}
+
+.sanjay1 img{
+border-radius:5px;}
+
+.sanjay2{
+		margin-top:-220px;
+margin-left:200px;} 
+
+ .soumi{
+		margin-left:100px;
+			margin-top:40px;
+}
+
+.soumi1 img{
+border-radius:5px;}
+
+.soumi2{
+		margin-top:-220px;
+margin-left:200px;} 
+
+ .srinibas{
+		margin-left:100px;
+			margin-top:40px;
+}
+
+.srinibas1 img{
+border-radius:5px;}
+
+.srinibas2{
+		margin-top:-220px;
+margin-left:200px;} 
+
+ .subhrangsu{
+		margin-left:100px;
+			margin-top:40px;
+}
+
+.subhrangsu1 img{
+border-radius:5px;}
+
+.subhrangsu2{
+		margin-top:-220px;
+margin-left:200px;} 
+
+ .sumit{
+		margin-left:100px;
+			margin-top:40px;
+}
+
+.sumit1 img{
+border-radius:5px;}
+
+.sumit2{
+		margin-top:-220px;
+margin-left:200px;} 
+
+ .upasana{
+		margin-left:100px;
+			margin-top:40px;
+}
+
+.upasana1 img{
+border-radius:5px;}
+
+.upasana2{
+		margin-top:-220px;
+margin-left:200px;} 
+
+.d{
+margin-left:100px;
+color:grey;}
+
+
+
+.kuntal {
+		margin-left:100px;
+			margin-top:40px;
+}
+
+
+.kuntal1 img{
+border-radius:5px;}
+
+.kuntal2{
+		margin-top:-220px;
+margin-left:200px;} 
+
+
+.e{
+margin-left:100px;
+margin-top:60px;
+color:grey;}
+
+ .snehashis{
+		margin-left:100px;
+			margin-top:40px;
+}
+
+.snehashis1 img{
+border-radius:5px;}
+
+.snehashis2{
+		margin-top:-220px;
+margin-left:200px;} 
+
+.footer{
+	background-color:rgba(100, 90, 90, 0.507);
+	height:50px;
+	margin-top:50px;
+}
+
+

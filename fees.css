@@ -1,0 +1,358 @@
+header{
+	border:solid 1px black;
+	width:91%;
+	margin-top:-8px;
+	margin-left:60px;
+
+}
+
+nav{	
+	position:relative;
+	top:-20px;
+	left:59.5px;
+	}
+
+nav ul{
+	list-style:none;
+	padding:0px;}
+	
+nav ul li{
+	
+	background-color:rgb(3, 51, 114);
+	height:55px;
+	width:174px;
+	line-height:55px;
+	float:left;
+	position:relative;
+	transition:0.5s;
+	z-index:2;
+	}
+
+nav ul a{
+	text-decoration:none;
+	color:white;
+	font-size:25px;
+	margin-left:20px;
+	display:block;
+	}
+
+nav ul ul{
+	display:none;}
+
+
+nav ul li:hover{
+	background:grey;}
+
+
+
+nav  ul li:hover>ul{
+	display:block;
+	}
+
+
+
+nav ul ul li a{
+	font-size:15px;
+	
+
+
+}
+/* *{
+	margin:0;
+	padding:0;} */
+.content{
+	margin-left: 240px;
+	margin-top: 70px;
+	width:60%;
+}
+.content caption{
+	font-size: 20px;
+}
+.content h1{
+	font-size: 40px;
+	font-weight: normal	;
+}
+.content h2{
+	font-size: 35px;
+	font-weight: normal	;
+}
+.content h3{
+	font-size: 25px;
+	font-weight: normal	;
+}
+.table{
+	
+	width:100%;
+	
+	//margin-left:150px;
+	border-collapse:collapse;}
+
+.table td, .table th{
+	border :1px solid #f5f5f5;
+	padding:10px 10px;
+	text-align:center;
+	font-size:10px;}
+.table thead tr{
+	background-color:#f5f5f5;}
+.table th{
+	background-color:#ddd;}
+
+.table tbody tr:nth-child(even){
+	background-color:#f5f5f5;}
+	
+.tableb{
+	
+	width:100%;
+	
+	//margin-left:150px;
+	border-collapse:collapse;}
+.tableb td, .tableb th{
+	border :solid 1px #f5f5f5;
+	padding:10px 10px;
+	text-align:center;
+	font-size:10px;}
+
+.tableb thead tr{
+	background-color:#f5f5f5;}
+
+.tableb tbody tr:nth-child(even){
+	background-color:#f5f5f5;}
+
+
+.tablec{
+	width:100%;
+	
+	//margin-left:150px;
+	border-collapse:collapse;}
+
+.tablec td, .tablec th{
+	border :1px solid #f5f5f5;
+	padding:10px 10px;
+	text-align:center;
+	font-size:10px;}
+.tablec thead tr{
+	background-color:#f5f5f5;}
+.tablec tbody th{
+	background-color:#ddd;
+	font-size:10px;}
+
+.tablec  tbody tr:nth-child(even){
+	background-color:#f5f5f5;}
+
+
+.tabled{
+	
+	width:100%;
+	
+	//margin-left:150px;
+	border-collapse:collapse;}
+.tabled td, .tabled th{
+	border :solid 1px #f5f5f5;
+	padding:10px 10px;
+	text-align:center;
+	font-size:10px;;}
+.tabled th{
+	font-size:10px;}
+.tabled thead tr{
+	background-color:#f5f5f5;}
+
+.tabled tbody tr:nth-child(even){
+	background-color:#f5f5f5;}
+
+
+	.tablee{
+		width:100%;
+	
+	//margin-left:150px;
+	border-collapse:collapse;}
+	
+	.tablee td, .tablee th{
+		border :1px solid #f5f5f5;
+		padding:10px 12px;
+		text-align:center;
+		font-size:10px;}
+	.tablee thead tr{
+		background-color:#f5f5f5;}
+	.tablee th{
+		background-color:#ddd;}
+	
+	.tablee tbody tr:nth-child(even){
+		background-color:#f5f5f5;}
+		
+.tablef{
+	
+	width:100%;
+	
+	//margin-left:150px;
+	border-collapse:collapse;}
+.tablef td, .tablef th{
+			border :solid 1px #f5f5f5;
+			padding:10px 10px;
+			text-align:center;
+			font-size:10px;}
+.tablef th{
+			font-size:10px;}
+.tablef thead tr{
+			background-color:#f5f5f5;}
+		
+.tablef tbody tr:nth-child(even){
+			background-color:#f5f5f5;}
+		
+.tableg{
+	width:100%;
+	
+	//margin-left:150px;
+	border-collapse:collapse;}
+			
+			.tableg td, .tableg th{
+				border :1px solid #f5f5f5;
+				padding:10px 10px;
+				text-align:center;
+				font-size:10px;}
+			.tableg thead tr{
+				background-color:#f5f5f5;}
+			.tableg th{
+				background-color:#ddd;}
+			
+			.tableg tbody tr:nth-child(even){
+				background-color:#f5f5f5;}
+				
+				
+.tableh{
+	
+	width:100%;
+	
+	//margin-left:150px;
+	border-collapse:collapse;}
+.tableh td, .tableh th{
+	border :solid 1px #f5f5f5;
+	padding:10px 10px;
+	text-align:center;
+	font-size:10px;}
+				
+.tableh thead tr{
+		background-color:#f5f5f5;}
+				
+.tableh tbody tr:nth-child(even){
+		background-color:#f5f5f5;}
+
+					
+.tablei{
+	
+	border-collapse: collapse;
+	margin-left: 200px;
+	width: 50%;
+	height: 350px;
+	font-size:10px;
+}
+.tablei td, .tablei th{
+	text-align: center;
+}
+
+.tablei thead tr th{
+	padding: 15px;
+}
+.tablei tbody tr th{
+	padding:5px;}
+
+
+.tablej{
+	border-collapse: collapse;
+	//margin-left: 220px;
+	width: 100%;
+	height: 300px;
+	font-size:10px;
+}
+.tablej td, .tablej th{
+	text-align: center;
+}
+
+.tablek{
+	border-collapse: collapse;
+	margin-left:120px;
+	width: 60%;
+	height: 300px;
+	font-size:10px;
+}
+.tablek thead th{
+	padding:20px;
+}
+.tablek td, .tablek th{
+	text-align: center;
+}
+
+.tablel{
+	border-collapse: collapse;
+	margin-left: 120px;
+	width: 60%;
+	height: 200px;
+	font-size:10px;
+}
+.tablel td, .tablel th{
+	text-align: center;
+}
+.tablel thead th{
+	padding: 12px;
+}
+
+.tablem{
+	border-collapse:collapse;
+	//margin-left: 270px;
+	width: 50%;
+	height: 240px;
+	font-size:10px;
+}
+.tablem td, .tablem th{
+	text-align: center;
+}
+
+.tablen{
+	border-collapse:collapse;
+	//margin-left: 270px;
+	width: 50%;
+	font-size:10px;
+
+}
+.tablen td, .tablem th{
+	text-align: center;
+}
+.tableo{
+	width:80%;
+	margin-left:150px;
+	border-collapse:collapse;
+	height:450px;}
+
+.tableo td, .tableo th{
+	border :1px solid #f5f5f5;
+	padding:10px 10px;
+	text-align:center;
+	font-size:10px;}
+.tableo thead tr{
+	background-color:#f5f5f5;}
+.tableo th{
+	background-color:#ddd;}
+
+.tableo tbody tr:nth-child(even){
+	background-color:#f5f5f5;}
+
+	.tablep{
+		width:80%;
+		margin-left:150px;
+		border-collapse:collapse;}
+	
+	.tablep td, .tablep th{
+		border :1px solid #f5f5f5;
+		padding:10px 10px;
+		text-align:center;
+		font-size:10px;}
+	.tablep thead tr{
+		background-color:#f5f5f5;}
+	
+	.tablep tbody tr:nth-child(even){
+		background-color:#f5f5f5;
+	}
+
+	.footer{
+		background-color:rgba(100, 90, 90, 0.507);
+		height:50px;
+	}
