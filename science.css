@@ -1,0 +1,242 @@
+header{
+	
+    border:solid 1px black;
+    width:91%;
+    margin-top:-8px;
+    margin-left:60px;
+    box-shadow:2px 2px 4px;
+    
+    }
+    
+    nav{
+    position:relative;
+    top:-20px;
+    left:59.5px;
+    
+    
+    }
+    
+    nav ul{
+    list-style:none;
+    padding:0px;}
+    
+    nav ul li{
+    
+    background-color:navy;
+    height:55px;
+    width:174px;
+    line-height:55px;
+    float:left;
+    position:relative;
+    transition:0.5s;
+    z-index:2;
+    }
+    
+    nav ul a{
+    text-decoration:none;
+    color:white;
+    font-size:25px;
+    margin-left:20px;
+    display:block;
+    }
+    
+    nav ul ul{
+    display:none;}
+    
+    
+    nav ul li:hover{
+    background:grey;}
+    
+    
+    
+    nav  ul li:hover>ul{
+    display:block;
+    }
+    
+    
+    
+    nav ul ul li a{
+    font-size:15px;
+    
+    
+    
+    }
+.a{
+        
+    text-align:center;
+   
+        width:30%;
+        margin-left:470px;
+    }
+    .a h2{
+        color:rgba(3, 106, 240, 0.884);
+        font-weight:normal;
+    }
+.a1{
+    color:gray;
+    margin-left:100px;
+}
+        .gautam{
+    margin-left:100px;
+    }
+    
+    .gautam1 img{
+    border-radius:5px;}
+    
+    .gautam2{
+            margin-top:-230px;
+    margin-left:200px;}
+    
+  .b{
+            //border:1px solid black;
+            font-size:20px;
+        margin-left:100px;
+        color:grey;}
+     
+    .anuradha{
+    margin-left:100px;
+    }
+    
+    .anuradha1 img{
+    border-radius:5px;}
+    
+    .anuradha2{
+            margin-top:-230px;
+    margin-left:200px;}
+    
+    .dipendu{
+            margin-left:100px;
+            margin-top:20px;
+    }
+    
+    .dipendu1 img{
+        margin-top:20px;
+    border-radius:5px;}
+    
+    .dipendu2{
+        margin-top:-220px;
+        margin-left:200px;}
+    
+    
+    .farha{
+                margin-left:100px;
+                margin-top:-20px;
+    }
+    
+    
+    .farha1 img{
+        border-radius:5px;
+    margin-top:40px;}
+    
+    .farha2{
+        margin-top:-220px;
+        margin-left:200px;}
+    
+        .shyamal{
+            margin-left:100px;
+            margin-top:30px;
+    }
+    
+    .shyamal1 img{
+    border-radius:5px;}
+    
+    .shyamal2{
+            margin-top:-200px;
+    margin-left:200px;}
+    
+    .c{
+        //border:1px solid black;
+        font-size:20px;
+    margin-left:100px;
+    color:grey;}
+
+    .archana{
+            margin-left:100px;
+    }
+    
+    .archana1 img{
+    border-radius:5px;}
+    
+    .archana2{
+            margin-top:-230px;
+    margin-left:200px;}
+    
+    .gayathri{
+            margin-left:100px;
+                margin-top:40px;
+    }
+    
+    .gayathri1 img{
+    border-radius:5px;}
+    
+    .gayathri2{
+            margin-top:-220px;
+    margin-left:200px;}
+    
+    .rekha{
+            margin-left:100px;
+                margin-top:40px;
+    }
+    
+    .rekha1 img{
+    border-radius:5px;}
+    
+    .rekha2{
+            margin-top:-220px;
+    margin-left:200px;}
+    
+     .shanta{
+            margin-left:100px;
+                margin-top:40px;
+    }
+    
+    .shanta1 img{
+    border-radius:5px;}
+    
+    .shanta2{
+            margin-top:-220px;
+    margin-left:200px;} 
+    
+     .nandana{
+            margin-left:100px;
+                margin-top:40px;
+    }
+    
+    .nandana1 img{
+    border-radius:5px;}
+    
+    .nandana2{
+            margin-top:-200px;
+    margin-left:200px;} 
+    
+     .debarati{
+            margin-left:100px;
+                //margin-top:70px;
+    }
+    
+    
+    .debarati1 img{
+    border-radius:5px;}
+    .debarati2{
+            margin-top:-220px;
+    margin-left:200px;} 
+    
+     .sangita{
+            margin-left:100px;
+              // margin-top:40px;
+    }
+    
+    .sangita1 img{
+    border-radius:5px;}
+    
+    .sangita2{
+            margin-top:-220px;
+    margin-left:200px;} 
+    
+}
+    /* .e{
+    margin-left:100px;
+    margin-top:60px;
+    color:grey;}
+     */
+     
